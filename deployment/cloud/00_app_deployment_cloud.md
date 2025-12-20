@@ -1,20 +1,14 @@
 # 🧰 VProfile Project (Cloud setup)
 
----
-
 This document outlines the cloud-based deployment architecture for the **VProfile** multi-tier application using a **Lift & Shift** migration strategy.
 
 The Lift & Shift approach moves an existing on-premises application to the cloud **with minimal modifications**, enabling organizations to rapidly adopt cloud infrastructure while preserving their existing application logic, structure, and dependencies.
 
----
-
 ## 🏗️ High-Level Architecture Overview
 
-> architecture diagram to be added here
+![lift_and_shift_architecture](../resources/Images/lift_and_shift_architecture.png)
 
 The architecture mirrors the traditional on-premises setup but is fully hosted on AWS, leveraging core cloud services for compute, DNS, storage, availability, and scalability.
-
----
 
 ## 🔄 Deployment Flow (Step-by-Step Execution)
 
