@@ -6,7 +6,7 @@ The Lift & Shift approach moves an existing on-premises application to the cloud
 
 ## 🏗️ High-Level Architecture Overview
 
-![lift_and_shift_architecture](../resources/Images/lift_and_shift_architecture.png)
+![lift_and_shift_architectures](../resources/Images/lift_and_shift_architecture.png)
 
 The architecture mirrors the traditional on-premises setup but is fully hosted on AWS, leveraging core cloud services for compute, DNS, storage, availability, and scalability.
 
